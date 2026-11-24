@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tongzm.github.io/clientkit-studio-site/sitemap.xml
