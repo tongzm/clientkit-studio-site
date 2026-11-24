@@ -1,0 +1,12 @@
+{
+  "origin": "https://tongzm.github.io/clientkit-studio-site",
+  "base_path": "/clientkit-studio-site",
+  "pages": [
+    "",
+    "reseller-inventory-profit-tracker.html",
+    "how-to-calculate-reseller-break-even.html"
+  ],
+  "paid_files_included": false,
+  "analytics_included": false,
+  "status": "READY FOR DEPLOYMENT"
+}
