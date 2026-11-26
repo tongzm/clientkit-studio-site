@@ -4,7 +4,8 @@
   "pages": [
     "",
     "reseller-inventory-profit-tracker.html",
-    "how-to-calculate-reseller-break-even.html"
+    "how-to-calculate-reseller-break-even.html",
+    "reseller-break-even-calculator.html"
   ],
   "paid_files_included": false,
   "analytics_included": false,
